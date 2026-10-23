@@ -20,4 +20,4 @@ Este proyecto es una página web educativa que reúne recursos
 - GitHub para alojar el proyecto y registrar los cambios.
 
 ## Autor
-Proyecto realizado como actividad educativa.
+Fernando
